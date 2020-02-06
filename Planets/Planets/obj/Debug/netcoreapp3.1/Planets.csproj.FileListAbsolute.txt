@@ -1,0 +1,11 @@
+E:\IT-242\Planets\Planets\Planets\bin\Debug\netcoreapp3.1\Planets.exe
+E:\IT-242\Planets\Planets\Planets\bin\Debug\netcoreapp3.1\Planets.deps.json
+E:\IT-242\Planets\Planets\Planets\bin\Debug\netcoreapp3.1\Planets.runtimeconfig.json
+E:\IT-242\Planets\Planets\Planets\bin\Debug\netcoreapp3.1\Planets.runtimeconfig.dev.json
+E:\IT-242\Planets\Planets\Planets\bin\Debug\netcoreapp3.1\Planets.dll
+E:\IT-242\Planets\Planets\Planets\bin\Debug\netcoreapp3.1\Planets.pdb
+E:\IT-242\Planets\Planets\Planets\obj\Debug\netcoreapp3.1\Planets.csprojAssemblyReference.cache
+E:\IT-242\Planets\Planets\Planets\obj\Debug\netcoreapp3.1\Planets.AssemblyInfoInputs.cache
+E:\IT-242\Planets\Planets\Planets\obj\Debug\netcoreapp3.1\Planets.AssemblyInfo.cs
+E:\IT-242\Planets\Planets\Planets\obj\Debug\netcoreapp3.1\Planets.dll
+E:\IT-242\Planets\Planets\Planets\obj\Debug\netcoreapp3.1\Planets.pdb
